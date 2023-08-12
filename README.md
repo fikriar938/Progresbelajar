@@ -3,7 +3,7 @@ repository progres belajaar
 
 12 agustus 2023
 belajar kelas pemrograman (progres 21%)
-*Belajar git dan dasar pemrograman*
+*Belajar git dan dasar pemrograman
 
 15 Agustus 2023
 
@@ -14,3 +14,15 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
 
   * Belajar tipe data koleksi, seperti list, set, dan map.
+
+    **20 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+
+  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+
+  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
+
+  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
